@@ -1,3 +1,5 @@
+#include <xorg-server.h>
+
 #include "picturestr.h"
 #include "pictureutil.h"
 

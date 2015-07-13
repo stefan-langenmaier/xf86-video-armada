@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <xorg-server.h>
 
 #include "pixmaputil.h"
 

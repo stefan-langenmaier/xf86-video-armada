@@ -1,3 +1,5 @@
+#include <xorg-server.h>
+
 #include "pixmapstr.h"
 #include "pixmaputil.h"
 
